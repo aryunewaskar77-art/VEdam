@@ -28,6 +28,16 @@ Through hands-on practice and guided learning programs, I’ve developed experie
 - Understanding how real development teams collaborate
 - Adapting to modern development workflows
 
+🤝 Contributions
+
+I haven’t made many public contributions yet, but I’m ready to start contributing more actively through projects, collaboration, and consistent practice.
+
+Going forward, I want to contribute by:
+
+- Building useful projects
+- Helping with team-based development
+- Improving open-source and community work whenever possible
+
 🤝 Let’s Build
 
 I’m always open to learning, collaborating, and creating impactful projects.
